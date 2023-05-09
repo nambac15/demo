@@ -1,1 +1,1 @@
-# demo this is exercise to in pascal
+this is exercise to in pascal
