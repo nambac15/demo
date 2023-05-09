@@ -3,7 +3,7 @@ var a,b:array[1..1000] of integer;
     n,m,i,s,j:integer;
 begin
     {doc mang}
-    assign(f1,'solieu.txt');
+    assign(f1,'solieu.txt');y
     reset(f1);
     read(f1,n);
     for i:=1 to n do 
